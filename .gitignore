@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+organizer.log
+summary_report.txt
+.venv/
+.idea/
+.vscode/
